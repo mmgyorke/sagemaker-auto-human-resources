@@ -1,0 +1,11 @@
+.bash_history
+.local/
+.yarnrc
+.cache/
+.conda/
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+.sagemaker-jumpstart-tasks-status.json
+workshop/
+amazon-sagemaker-examples/
